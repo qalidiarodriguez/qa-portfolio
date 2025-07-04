@@ -4,16 +4,27 @@
 
 ---
 
-### 👋 Hello! I'm Pamela — QA Engineer in progress ⚙️🌸
+### 👋 Hello! I'm Lidia Rodriguez — QA Engineer in progress ⚙️🌸
 
 I'm a QA Engineer with experience in both **functional and non-functional software testing**.  
 I've worked on projects using:
 - `SQL`
 - `Cypress`
 - `Android Studio`
+- `Excel`
 - `Postman`
 - `Jira`
-- 
+- `Tableau`
+- `Figma`
+- `Linux`
+- `Selenium`
+- `Apis`
+- `Python`
+- `Pycharm`
+- `Git`
+- `HTML`
+- `Github`
+- `And others more`
 
 I’m also familiar with **agile methodologies** like `Scrum`.
 
