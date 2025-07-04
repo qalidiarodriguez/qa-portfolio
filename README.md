@@ -33,7 +33,7 @@ I’m also familiar with **agile methodologies** like `Scrum`.
 
 ### 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidiapamelarodriguezvigueras/)
 [![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidiapamelavidalaboral@gmail.com)
 
 ---
