@@ -4,6 +4,9 @@
 
 ---
 
+![Banner](https://raw.githubusercontent.com/lidiapamela/portafolio/main/banner_portafolio.png)
+
+
 ### 👋 Hello! I'm Lidia Rodriguez — QA Engineer in progress ⚙️🌸
 
 I'm a QA Engineer with experience in both **functional and non-functional software testing**.  
