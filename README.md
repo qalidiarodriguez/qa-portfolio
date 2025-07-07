@@ -4,7 +4,7 @@
 
 ---
 
-https://github.com/qalidiarodriguez/qa-portfolio/blob/main/banner_portafolio.png.png?raw=true
+![Banner](https://github.com/qalidiarodriguez/qa-portfolio/blob/main/banner_portafolio.png.png?raw=true)
 
 ### 👋 Hello! I'm Lidia Rodriguez — QA Engineer in progress ⚙️🌸
 
